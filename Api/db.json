@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Anil",
+      "email": "anil@gmail.com",
+      "password": "anil@123"
+    },
+    {
+      "email": "bratati@gmail.com",
+      "name": "Bratati",
+      "password": "bratati@123",
+      "id": 2
+    },
+    {
+      "name": "Heloo",
+      "email": "helo@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "Bratati",
+      "email": "devid@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "name": "Devid",
+      "email": "devid@gmail.com",
+      "password": "devid@123",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 7
+    },
+    {
+      "name": "fsdff",
+      "email": "dffsdddds",
+      "password": "dfff",
+      "id": 8
+    },
+    {
+      "name": "Peter",
+      "email": "peter@gmail.com",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 17
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 18
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 19
+    },
+    {
+      "name": "Hasan",
+      "email": "hasan@gmail.com",
+      "password": "123456",
+      "id": 20
+    },
+    {
+      "name": "Rehana",
+      "email": "rehana@gmail.com",
+      "password": "123456",
+      "id": 24
+    },
+    {
+      "name": "Sam",
+      "email": "Sam@gmail.com",
+      "password": "123456",
+      "id": 25
+    },
+    {
+      "name": "Sam",
+      "email": "Sam@gmail.com",
+      "password": "123456",
+      "id": 26
+    },
+    {
+      "name": "Sam",
+      "email": "Sam@gmail.com",
+      "password": "123456",
+      "id": 27
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 28
+    },
+    {
+      "name": "Harsh",
+      "email": "harsh@gmail.com",
+      "password": "12345",
+      "id": 29
+    },
+    {
+      "name": "Santi",
+      "email": "santi@gmail.com",
+      "password": "123456",
+      "id": 30
+    },
+    {
+      "name": "Jhon",
+      "email": "jhon@gmail.com",
+      "password": "123456",
+      "id": 31
+    },
+    {
+      "name": "Pathan",
+      "email": "pathan@gmail.com",
+      "password": "12345",
+      "id": 32
+    },
+    {
+      "name": "Pathan",
+      "email": "pathan@gmail.com",
+      "password": "12345",
+      "id": 33
+    },
+    {
+      "name": "Sidhu",
+      "email": "sidhu@gmail.com",
+      "password": "123456",
+      "id": 34
+    }
+  ],
+  "restaurents": [
+    {
+      "id": 1,
+      "name": "Burger King",
+      "contact no": 11111,
+      "address": "Kolkata sector V"
+    },
+    {
+      "id": 2,
+      "name": "KFC",
+      "contact no": 2222,
+      "address": "Howrah lane No 5077"
+    },
+    {
+      "id": 3,
+      "name": "Jayashee Food",
+      "contact no": 8987,
+      "address": "Kolkata Bidhannagar"
+    },
+    {
+      "id": 4,
+      "name": "CCD",
+      "contact_no": 98563,
+      "address": "Kolkata Esplanade"
+    }
+  ]
+}
