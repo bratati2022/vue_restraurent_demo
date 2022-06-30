@@ -12,7 +12,7 @@
         <!-- <router-link class ="btn btn-primary" to='/homepage' @click="onregister">Sign Up</router-link> -->
        <button @click="onsignin">LogIn</button>
        <p>
-          Not LoggedIn Yet ? <router-link to='/signup' >SignUP</router-link>
+          Not LoggedIn Yet ? <router-link to='/' >SignUP</router-link>
            </p>
        
         

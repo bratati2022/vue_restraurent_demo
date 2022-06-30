@@ -45,7 +45,7 @@ return{
                    
                     localStorage.setItem("user-info",JSON.stringify(result.data))
                     // alert("Signup successfully")
-                    // this.$router.push({name:'HomePage'})
+                    this.$router.push({name:'HomePage'})
                     
                 
 

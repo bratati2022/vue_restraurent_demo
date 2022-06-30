@@ -179,6 +179,24 @@
       "email": "sidhu@gmail.com",
       "password": "123456",
       "id": 34
+    },
+    {
+      "name": "Shyam",
+      "email": "shyam@gmail.com",
+      "password": "12345",
+      "id": 35
+    },
+    {
+      "name": "Shyam",
+      "email": "shyam@gmail.com",
+      "password": "12345",
+      "id": 36
+    },
+    {
+      "name": "ghgfkld/fj",
+      "email": "jhghfldj;'dk",
+      "password": "12345",
+      "id": 37
     }
   ],
   "restaurents": [
